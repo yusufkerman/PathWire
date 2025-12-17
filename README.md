@@ -2,6 +2,9 @@
 
 Lightweight, text-based command and telemetry protocol for embedded systems.
 
+📘 **Documentation**:  
+👉 https://yusufkerman.github.io/PathWire/
+
 PathWire is designed for resource-constrained microcontrollers where simplicity,
 determinism, and zero dynamic memory usage are critical. It provides a clean and
 human-readable way to send commands and telemetry data between embedded targets
