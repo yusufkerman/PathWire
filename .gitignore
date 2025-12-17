@@ -1,0 +1,47 @@
+# =========================
+# STM32CubeIDE
+# =========================
+
+# Build output
+Debug/
+Release/
+build/
+
+# CubeIDE metadata
+.settings/
+.cproject
+.project
+
+# CubeMX generated files (optional)
+*.ioc
+
+# =========================
+# Toolchain / compiler
+# =========================
+*.o
+*.a
+*.elf
+*.map
+*.hex
+*.bin
+*.lst
+*.d
+
+# =========================
+# OS / Editor junk
+# =========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# =========================
+# Doxygen output
+# =========================
+docs/html/
+docs/latex/
+
+# Keep Doxyfile but not generated output
+!docs/Doxyfile
+
